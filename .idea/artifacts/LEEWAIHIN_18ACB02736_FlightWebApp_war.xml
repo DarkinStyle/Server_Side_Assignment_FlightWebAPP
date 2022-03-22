@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LEEWAIHIN_18ACB02736_FlightWebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>LEEWAIHIN_18ACB02736_FlightWebApp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="LEEWAIHIN_18ACB02736_FlightWebApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LEEWAIHIN_18ACB02736_FlightWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>

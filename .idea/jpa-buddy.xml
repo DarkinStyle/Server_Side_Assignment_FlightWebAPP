@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" migrateIndexesAndConstraints="true">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="54a2a3de-7583-4fd1-97b8-80b00db0167b_flightdb" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/utar/flightwebapp_18acb02736/model/entity" />
+    <option name="newEntityIdStrategy" />
+  </component>
+</project>

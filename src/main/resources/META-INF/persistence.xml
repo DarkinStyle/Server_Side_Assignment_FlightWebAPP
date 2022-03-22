@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+    <persistence-unit name="default">
+        <jta-data-source>java:/flightdb</jta-data-source>
+
+        <class>com.utar.flightwebapp_18acb02736.model.entity.Flight</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.Booking</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.Ticket</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.TicketFlightId</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.TicketFlight</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.Ticket</class>
+        <class>com.utar.flightwebapp_18acb02736.model.entity.Ticket</class>
+
+
+    </persistence-unit>
+</persistence>

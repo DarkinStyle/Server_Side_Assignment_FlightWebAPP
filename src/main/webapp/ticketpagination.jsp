@@ -4,7 +4,7 @@
 <%@ page import="org.hibernate.mapping.Map" %>
 <%@ page import="java.util.HashMap" %>
 <%@ page import="com.fasterxml.jackson.databind.ObjectMapper" %>
-<%@ page import="com.utar.flightwebapp_18acb02736.model.entity.ContactData" %>
+<%@ page import="com.utar.flightwebapp_18acb02736.model.content.ContactData" %>
 <%--
 <%@ page import="com.utar.flightwebapp_18acb02736.model.entity.Booking" %><%--
   Created by IntelliJ IDEA.

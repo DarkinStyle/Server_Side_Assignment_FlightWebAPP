@@ -3,9 +3,8 @@ package com.utar.flightwebapp_18acb02736.model.sessionbean;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.utar.flightwebapp_18acb02736.model.entity.Booking;
-import com.utar.flightwebapp_18acb02736.model.entity.ContactData;
+import com.utar.flightwebapp_18acb02736.model.content.ContactData;
 import com.utar.flightwebapp_18acb02736.model.entity.Ticket;
-import org.junit.Test;
 
 import javax.ejb.EJB;
 import javax.ejb.EJBException;

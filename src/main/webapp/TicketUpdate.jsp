@@ -1,6 +1,6 @@
 <%@ page import="com.utar.flightwebapp_18acb02736.model.entity.Ticket" %>
 <%@ page import="com.fasterxml.jackson.databind.ObjectMapper" %>
-<%@ page import="com.utar.flightwebapp_18acb02736.model.entity.ContactData" %>
+<%@ page import="com.utar.flightwebapp_18acb02736.model.content.ContactData" %>
 <%@ page import="java.util.Arrays" %><%--
   Created by IntelliJ IDEA.
   User: Wai Hin(Darkin)

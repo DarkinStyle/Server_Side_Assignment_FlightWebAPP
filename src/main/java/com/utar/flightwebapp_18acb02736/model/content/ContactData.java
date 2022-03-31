@@ -1,4 +1,4 @@
-package com.utar.flightwebapp_18acb02736.model.entity;
+package com.utar.flightwebapp_18acb02736.model.content;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

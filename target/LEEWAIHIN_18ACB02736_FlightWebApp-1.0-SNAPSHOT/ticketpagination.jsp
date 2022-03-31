@@ -250,7 +250,6 @@
                                 ObjectMapper contdata = new ObjectMapper();
                                 ContactData ctd = contdata.readValue(contactdata, ContactData.class);
 
-
                                 out.println("<tr>");
                                 out.println("<th scope=\"row\">" + t.getId() + "</th>");
                                 out.println("<td>" + t.getBookings().getId() + "</td>");
